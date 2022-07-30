@@ -1,0 +1,12 @@
+.buttons {
+  margin-left: auto;
+}
+
+.upload_button[type="file"] {
+  display: none;
+}
+
+.icon {
+  width: 2em;
+  height: 2em;
+}
